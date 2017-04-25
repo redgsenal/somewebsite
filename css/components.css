@@ -1,0 +1,6 @@
+.contr {
+  color: yellow; }
+  .contr .redtext {
+    color: red; }
+  .contr p.redtext {
+    color: green; }
